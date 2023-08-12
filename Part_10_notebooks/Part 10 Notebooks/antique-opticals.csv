@@ -1,0 +1,17 @@
+customer_number,first_name,surname,street,postcode,phone_number,order_number,order_date,item_number,title,price,item_dispatched,distributor_id,distributor
+11895PID060,Maximo,Piddocke,1 Marchbank Place,EH14 7EU,(01968) 667355,AO84361,24/12/2017,37326163,Arrowsmith,74,TRUE,7810,PVH
+20188CAL090,Reed,Calderon,17 Ailsa View,KA23 9GA,(01294) 158227,AO40942,29/07/2017,41933160,Batman Returns,70,TRUE,7562,Global X
+20188CAL090,Reed,Calderon,17 Ailsa View,KA23 9GA,(01294) 158227,AO40942,29/07/2017,61885965,I'm Reed Fish,65,TRUE,7562,Global X
+20188CAL090,Reed,Calderon,17 Ailsa View,KA23 9GA,(01294) 158227,AO64156,12/11/2017,28330220,Salmonberries,54,TRUE,2973,Infinity
+20188CAL090,Reed,Calderon,17 Ailsa View,KA23 9GA,(01294) 158227,AO64156,12/11/2017,37326163,Arrowsmith,74,FALSE,7810,PVH
+21242BLA040,Clemmy,Blankley,81 Bridgwater Road,BS13 7AX,(0117) 062 5775,AO84362,12/11/2017,41933160,Batman Returns,70,TRUE,7562,Global X
+23053EBO161,Daffie,Eborn,5 South Street,PO41,(01590) 877037,AO34913,26/05/2017,79928042,"Life Before Her Eyes, The",42,FALSE,4881,Avery Dennison
+25314ZOR005,Ethel,Zorer,18 Crooks Lane,SN10 4SW,(01380) 431667,AO13309,03/04/2017,58265411,Ginger Snaps: Unleashed,70,TRUE,8441,Heska
+34773BLA124,Clemmy,Blankley,Unnamed Road,NP7 9TG,(01873) 651470,AO90663,22/01/2018,58265411,Ginger Snaps: Unleashed,70,FALSE,8441,Heska
+36215COP031,Anselm,Copestick,10 College Street,KA28 0DH,(01700) 356763,AO44547,08/09/2017,28330220,Salmonberries,54,TRUE,2973,Infinity
+36215COP031,Anselm,Copestick,10 College Street,KA28 0DH,(01700) 356763,AO44547,08/09/2017,72592002,L.A. Confidential,43,TRUE,8143,Badger Meter
+65790JAC018,Jo,Jachimiak,1 Saint James's Cottages,TW9,(01372) 706512,AO46272,07/10/2017,41933160,Batman Returns,70,TRUE,7562,Global X
+65790JAC018,Jo,Jachimiak,1 Saint James's Cottages,TW9,(01372) 706512,AO46272,07/10/2017,50205287,loudQUIETloud,73,TRUE,7562,Global X
+65790JAC018,Jo,Jachimiak,1 Saint James's Cottages,TW9,(01372) 706512,AO46272,07/10/2017,86074120,"Eddy Duchin Story, The",79,FALSE,7810,PVH
+89499ING179,Iolanthe,Inglesfield,1 Main Road,IV20 1TG,(01862) 830471,AO19093,18/04/2017,37326163,Arrowsmith,74,TRUE,7810,PVH
+97522LUN108,Tobe,Lung,13 Gower Street,WC1E 6HE,(020) 1742 2373,AO56796,26/10/2017,37244552,Fantasia 2000,70,TRUE,7810,PVH
